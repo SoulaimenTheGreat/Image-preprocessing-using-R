@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574633532127.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3990467149",
+    "id" : "B01C526C",
+    "lastKnownWriteTime" : 1574636086,
+    "last_content_update" : 1574636086951,
+    "path" : "C:/Users/Ilhem/Desktop/Master-Moh/cours/m1/semestre1/data-preprocessing/image_pre_processing_R/ImagePreprocessing/imageprocessing.R",
+    "project_path" : "imageprocessing.R",
+    "properties" : {
+        "cursorPosition" : "6,15",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

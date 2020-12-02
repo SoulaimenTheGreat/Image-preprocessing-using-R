@@ -1,0 +1,8 @@
+library(magick)
+str(magick::magick_config())
+beji <- image_read('beji.jpg')
+bajbouj<-image_scale(beji,'200')
+image_border(bajbouj, "#000080")
+image_trim(bajbouj)
+length(bajbouj)
+image_annotate(bajbouj,'bara rahez',size="20",color="yellow") 
